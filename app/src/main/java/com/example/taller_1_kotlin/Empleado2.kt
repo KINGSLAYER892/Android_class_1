@@ -20,4 +20,3 @@ abstract class Empleado2(private val nombre: String, private val apellido: Strin
 
 
 
-
